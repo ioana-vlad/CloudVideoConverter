@@ -1,0 +1,4 @@
+BigData\FileFromS3.class
+BigData\ConvertFile.class
+BigData\StartConverting.class
+BigData\UploadFileS3.class
